@@ -23,7 +23,7 @@ Interpretación de resultados y conclusiones
 
 datos_tratados.csv: Datos limpios y transformados listos para análisis y modelado.
 
-Churn_Analysis.ipynb: Notebook principal con todo el flujo de análisis, visualización y modelado.
+TelecomX2.ipynb: Notebook principal con todo el flujo de análisis, visualización y modelado.
 
 README.md: Este archivo, que describe el proyecto y su estructura.
 
@@ -71,10 +71,10 @@ Se identificaron patrones de clientes con mayor riesgo de churn, lo que permite 
 
 Clonar el repositorio:
 
-git clone https://github.com/tu_usuario/TelecomX_Churn.git
+git clone https://github.com/Franherrerad/TelecomXpt2-/blob/main/TelecomX2.ipynb
 
 
-Abrir Churn_Analysis.ipynb en Google Colab o Jupyter Notebook.
+Abrir TelecomX2.ipynb en Google Colab o Jupyter Notebook.
 
 Cargar los datos desde datos_tratados.csv.
 
